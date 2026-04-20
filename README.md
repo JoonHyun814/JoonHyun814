@@ -49,6 +49,36 @@
 
 ---
 
+## 경력 및 학력
+
+**AI Engineer — (주)퍼포먼스바이티비더블유에이** `2026.03 – 재직 중`
+> 영상 분류 체계 설계: keyframe 추출, OCR/STT, face detection → tracking → embedding → clustering  
+> LTX-2, WAN2.2 최신 영상 생성 모델 아키텍처 분석  
+> bid data · postback 수집 파이프라인 구축 및 성과 리포트 자동화
+
+**AI Engineer — 주식회사 애니펜** `2023.04 – 2025.11`
+> 베리모지 · 1thePic 이미지 생성 앱 (Stable Diffusion, AWS)  
+> - **서버 비용 50% 절감** — SageMaker 비동기 추론 전환 (유휴 시 인스턴스 0개)  
+> - **추론 속도 40% 향상** — 모델 양자화 + Knowledge Distillation  
+> - Hair classification 모델 개발 + LoRA 자동 평가 파이프라인 구축  
+> - NC 다이노스 키오스크 face detection 개선 (EfficientNet, augmentation)
+
+**교육 — Naver BoostCamp AI Tech CV Track** `2022.01`
+> 선형대수학, Vision AI 알고리즘, PyTorch 구현 학습  
+> classification · detection · segmentation 대회형 팀프로젝트  
+> MMSegmentation, hard/soft voting 등 ensemble 기법 활용
+
+**학부연구생 — 건국대학교 기계공학과** `2016.03 – 2022.02`
+> Auto encoder를 이용한 철도차량 이상감지 연구실  
+> 공기압축기 부품별 상태량 Matlab 시뮬레이션, TensorFlow Autoencoder 구현 및 finetuning  
+> 논문 2편 게재: [철도차량 2단 피스톤 공기압축기의 시뮬레이션 연구](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10584865) · [LSTM과 CNN 기반의 공기압축기 이상감지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10896480)
+
+**인턴 — 에이아이웍스** `2020.08 – 2020.12`
+> 대형 데이터셋(CCTV 차량, 수화 손 pose, 음원 코드 라벨링) 제작 프로젝트 관리  
+> 라벨링 가이드라인 작성 및 작업자 진행 현황 관리
+
+---
+
 ## 프로젝트
 
 | 프로젝트 | 설명 | 기술 스택 |
@@ -57,36 +87,6 @@
 | [**Gilog (컴포넌트)**](https://github.com/JoonHyun814/gilog_public) | Flutter 다이어리 앱 — Figma·GitHub Projects 디자이너 협업 + CLAUDE.md AI 협업 규칙 기반 컴포넌트 시스템. | Flutter · Dart · Firebase |
 | [**Screw Compressor PHM**](https://github.com/JoonHyun814/Screw_aircompressor_PHM) | 철도차량 공기압축기 이상 감지 — CNN/LSTM Autoencoder. **논문 2편 게재.** | Python · TensorFlow · LSTM · CNN-AE |
 | [**Claude Stock**](https://github.com/JoonHyun814/claude_stock) | Claude AI + 커스텀 MCP 서버 기반 장기 가치 투자 포트폴리오 자동 분석 | Python · Claude API · MCP · yfinance |
-
----
-
-## 경력
-
-**AI Engineer — (주)퍼포먼스바이티비더블유에이** `2026.03 – 재직 중`
-> 영상 분류 시스템 설계: keyframe 추출, OCR/STT, face detection → tracking → embedding → clustering  
-> LTX-2, WAN2.2 최신 영상 생성 모델 아키텍처 분석
-
-**AI Engineer — 주식회사 애니펜** `2023.04 – 2025.11`
-> 베리모지 · 1thePic 이미지 생성 앱 (Stable Diffusion, AWS)
-> - **서버 비용 50% 절감** — SageMaker 비동기 추론 전환 (유휴 시 인스턴스 0개)
-> - **추론 속도 40% 향상** — 모델 양자화 + Knowledge Distillation
-> - Hair classification 모델 개발 + LoRA 자동 평가 파이프라인 구축
-> - NC 다이노스 키오스크 face detection 개선 (EfficientNet, augmentation)
-
-**Data Engineer — (주)퍼포먼스바이티비더블유에이** `2026.03 – 2026.04`
-> bid data · postback 수집 파이프라인 구축 및 성과 리포트 자동화
-
-**인턴 — 에이아이웍스** `2020.08 – 2020.12`
-> 대형 데이터셋(CCTV, 수화, 음원) 제작 프로젝트 관리
-
----
-
-## 학력 및 자격
-
-- 🎓 **건국대학교** 기계공학과 _(2016 – 2022)_
-- 🏅 **Naver BoostCamp AI Tech** CV Track _(2022.01)_ — classification, detection, segmentation, ensemble
-- 📄 **[철도차량 2단 피스톤 공기압축기의 시뮬레이션 연구](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10584865)**
-- 📄 **[LSTM과 CNN 기반의 공기압축기 이상감지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10896480)**
 
 ---
 
